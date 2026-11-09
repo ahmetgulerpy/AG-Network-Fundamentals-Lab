@@ -217,22 +217,35 @@ Your support helps make practical cybersecurity education more accessible.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 About the Developer
 
-<p align="center">
-  <strong>Ahmet GÜLER</strong>
+<div align="center">
+
+  <h2>Ahmet GÜLER</h2>
+  <p><strong>Cyber Security Researcher | Malware Analyst | Software Developer</strong></p>
+
+  <p>
+    Building, exploring and sharing knowledge in Cyber Security.
+    <br>
+    Founder of <strong>AG CYBER LAB</strong>
+  </p>
+
   <br>
-  Hacking & Cyber Security
-  <br>
-  AG CYBER LAB
+
+  <a href="https://github.com/ahmetgulerpy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.instagram.com/ahmetgulerpy/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+
   <br><br>
-  <a href="https://github.com/ahmetgulerpy">GitHub Profile</a>
-  <br>
-  <a href="https://www.instagram.com/ahmetgulerpy/">Instagram Profile</a>
-</p>
 
-<p align="center">
-  <strong>AG CYBER LAB</strong>
-  <br>
-  Learn • Explore • Practice
-</p>
+  <hr width="60%">
+
+  <h3>⚡ AG CYBER LAB</h3>
+  <p><i>Learn. Explore. Practice.</i></p>
+
+  <sub>Knowledge is the strongest defense.</sub>
+
+</div>
