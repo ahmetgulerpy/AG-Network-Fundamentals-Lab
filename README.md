@@ -227,6 +227,8 @@ Your support helps make practical cybersecurity education more accessible.
   AG CYBER LAB
   <br><br>
   <a href="https://github.com/ahmetgulerpy">GitHub Profile</a>
+  <br>
+  <a href="https://www.instagram.com/ahmetgulerpy/">Instagram Profile</a>
 </p>
 
 <p align="center">
